@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DragAndDropList</string>
+    <string name="deleteAllText">Clear History</string>
+    <string name="textClearAll">Clear ALL</string>
+</resources>
